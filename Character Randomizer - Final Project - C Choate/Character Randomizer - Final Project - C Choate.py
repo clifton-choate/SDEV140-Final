@@ -2,8 +2,8 @@
 Cliff Choate
 Final Project
 Random generation of tabletop RPG (Dungeons & Dragons, 5th edition) character
-v0.1
-07/13/2024
+v0.2
+07/19/2024
 '''
 
 
