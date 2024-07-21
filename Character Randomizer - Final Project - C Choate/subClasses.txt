@@ -1,0 +1,3 @@
+Cleric,Knowledge,Life,Light,Nature,Tempest,Trickery,War
+Sorcerer,Draconic Bloodline,Wild Magic
+Warlock,Archfey,Fiend,Great Old One
