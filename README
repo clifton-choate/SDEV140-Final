@@ -1,0 +1,2 @@
+The folder should be downloaded and accessed as is. The folder contains a subfolder whose path is referenced in the code.
+The code will not function without the Supplements folder in its working directory
