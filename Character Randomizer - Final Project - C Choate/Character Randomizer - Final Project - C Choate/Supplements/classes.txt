@@ -1,0 +1,14 @@
+Artificer,INT,CON,False,2,3,0
+Barbarian,STR,CON,False,0,2,1
+Bard,CHR,DEX,False,1,5,2
+Cleric,WIS,CON,True,4,5,3
+Druid,WIS,CON,False,3,4,4
+Fighter (STR),STR,CON,False,0,2,5
+Fighter (DEX),DEX,CON,False,0,2,6
+Monk,DEX,WIS,False,0,1,7
+Paladin,STR,CHR,False,4,5,8
+Ranger,DEX,WIS,False,0,1,9
+Rogue,DEX,CHR,False,1,3,10
+Sorcerer,CHR,CON,True,2,5,11
+Warlock,CHR,CON,True,4,5,12
+Wizard,INT,DEX,False,3,4,13
